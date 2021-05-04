@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Sources/HaplarUI-logo.png" width="400" max-width="90%" alt="Publish" />
+    <img src="Sources/HaplarUI-logo.png" width="800" max-width="90%" alt="Publish" />
 </p>
 
 Welcome to UIHaplarKit, a ...

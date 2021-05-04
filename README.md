@@ -1,6 +1,6 @@
 # UIHaplarKit
 
-A description of this package.
+Welcome to UIHaplarKit, a ...
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.4-orange.svg" />

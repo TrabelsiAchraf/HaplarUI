@@ -1,3 +1,3 @@
-struct UIHaplarKit {
+struct HaplarUI {
     var text = "Hello, World!"
 }

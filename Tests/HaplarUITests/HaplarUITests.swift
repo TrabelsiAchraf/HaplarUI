@@ -1,11 +1,11 @@
     import XCTest
-    @testable import UIHaplarKit
+    @testable import HaplarUI
 
-    final class UIHaplarKitTests: XCTestCase {
+    final class HaplarUITests: XCTestCase {
         func testExample() {
             // This is an example of a functional test case.
             // Use XCTAssert and related functions to verify your tests produce the correct
             // results.
-            XCTAssertEqual(UIHaplarKit().text, "Hello, World!")
+            XCTAssertEqual(HaplarUI().text, "Hello, World!")
         }
     }

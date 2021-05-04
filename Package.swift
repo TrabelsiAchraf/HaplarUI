@@ -4,18 +4,18 @@
 import PackageDescription
 
 let package = Package(
-    name: "UIHaplarKit",
+    name: "HaplarUI",
     platforms: [
         .iOS(.v14)
     ],
     products: [
         .library(
-            name: "UIHaplarKit",
-            targets: ["UIHaplarKit"]),
+            name: "HaplarUI",
+            targets: ["HaplarUI"]),
     ],
     targets: [
         .binaryTarget(
-            name: "UIHaplarKit",
-            path: "UIHaplarKit.xcframework"),
+            name: "HaplarUI",
+            path: "HaplarUI.xcframework"),
     ]
 )

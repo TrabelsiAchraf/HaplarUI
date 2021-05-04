@@ -1,8 +1,6 @@
 <p align="center">
-    <img src="Sources/HaplarUI-logo.png" width="800" max-width="90%" alt="Publish" />
+    <img src="Sources/HaplarUI-logo.png" width="700" max-width="90%" alt="Publish" />
 </p>
-
-Welcome to UIHaplarKit, a ...
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.4-orange.svg" />
@@ -14,3 +12,6 @@ Welcome to UIHaplarKit, a ...
         <img src="https://img.shields.io/badge/twitter-Tr__Achraf-blue" alt="Twitter: @Tr_Achraf" />
     </a>
 </p>
+
+
+Welcome to **HaplarUI**, a ...

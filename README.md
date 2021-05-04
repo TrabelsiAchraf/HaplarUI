@@ -9,6 +9,6 @@ A description of this package.
     </a>
      <img src="https://img.shields.io/badge/platforms-iOS-brightgreen" alt="iOS" />
     <a href="https://twitter.com/Tr_Achraf">
-        <img src="https://img.shields.io/twitter/follow/Tr_Achraf?label=achraf&style=social" alt="Twitter: @Tr_Achraf" />
+        <img src="https://img.shields.io/badge/twitter-Tr__Achraf-blue" alt="Twitter: @Tr_Achraf" />
     </a>
 </p>

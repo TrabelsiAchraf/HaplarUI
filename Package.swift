@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HaplarUI",
-            path: "HaplarUI.xcframework"
+            path: "Sources/HaplarUI.xcframework"
         ),
     ]
 )
